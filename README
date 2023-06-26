@@ -2,4 +2,24 @@ Programm "Task Manager"
 
 This programm created as a task manager which helps to create, maintain and follow tasks on different size and level of companies.
 
+In this programm you can:
+- Create tasks for assignet users
+- Create new users fir the task
+- Edit tasks
+- See brief statistics of tasks
+- See statistics of each user
+- Create, save on txt file and read from it statistic reports
 
+For correct work of this programm you need just copy "task_manager.py" file from this directory on your device and launch it.
+Programm will create the rest of the files by itself.
+In file "user.txt" you need to add admin user, to start work with this programm.
+Type of data in "user.txt" should be "login;password", so to create admin account print in first line of this file "admin;password" and save it.
+
+Program ready to work!!
+
+!IMPORTANT!
+If you want firstly just test how it works on example files, copy "tasks.txt" and "user.txt" from this git directory to your local directory where located "task_manager.py".
+
+Programm is very easy to use and each step in the programm followed by my instruction in it. So, you just need to lauch the programm and you will understand what to do and how to do in the programm.
+
+Created by Anton Ilyk
