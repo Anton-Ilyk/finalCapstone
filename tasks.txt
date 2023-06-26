@@ -1,0 +1,16 @@
+1;admin;Change pass;PC23;2023-06-28;2022-11-22;Yes
+2;Jack;Print power of attorney;Today;2023-06-24;2023-06-16;No
+3;Anton;Create website;Car parts web site;2023-06-25;2023-06-16;No
+4;admin;Configure print SERVER ROOM;PRIORITY;2023-06-24;2023-06-16;Yes
+5;admin;Config switch;VLAN25;2023-06-28;2022-11-22;Yes
+6;admin;Delete local user;PC11;2023-06-18;2023-06-27;Yes
+7;Anton;Change guest WiFi password;Guests area WiFi;2023-06-17;2023-06-16;Yes
+8;Jack;Create study programm for customers;M365 STUDY;2023-06-30;2023-06-16;No
+9;Jack;Buy extra keyboard;Today;2023-06-17;2023-06-16;Yes
+10;Jack;Check server equipment;PRIORITY;2023-06-19;2023-06-16;No
+11;Jack;Buy new scanner;ASAP;2023-06-24;2023-06-20;No
+12;Jackie;Buy new scanner;ASAP;2023-06-24;2023-06-20;Yes
+13;Jackie;Test alarm system;Tomorrow;2023-06-19;2023-06-20;No
+14;Anton;Buy Windows 7;ASAP;2023-06-29;2023-06-20;Yes
+15;Toko;Create Windows account;For finance department;2023-07-25;2023-06-20;No
+16;Borsik;Change salary tax code;For delivery drivers;2023-08-01;2023-06-20;No

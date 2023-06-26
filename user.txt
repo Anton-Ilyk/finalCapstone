@@ -1,0 +1,6 @@
+admin;pass
+Anton;pass1
+Jack;pass2
+Jackie;121212
+Toko;1212
+Borsik;ii1k
